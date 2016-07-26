@@ -119,6 +119,17 @@
             <url>http://www.cra-arc.gc.ca/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <category>CH</category>
+            <code>CH-ZEFIX</code>
+            <name>
+                <narrative>Swiss Commercial Register (via Zefix)</narrative>
+            </name>
+            <url>http://www.zefix.ch/</url>
+            <description>
+                <narrative>The Federal Office of Justice maintains Zefix for the purpose of accessing the companies decentrally recorded in the cantonal databases. Access to general company information is free of charge. The entries and changes in the Commercial Registry are published in the Swiss Official Gazette of Commerce and on the Internet (http://zefix.admin.ch/shab).</narrative>
+            </description>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>CN-SAIC</code>
             <name>
                 <narrative>State Administration for Industry and Commerce (SAIC)</narrative>
