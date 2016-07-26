@@ -703,6 +703,17 @@
             <url>https://ems.ms.gov.pl/krs/wyszukiwaniepodmiotu</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <category>RO</category>
+            <code>RO-CUI</code>
+            <name>
+                <narrative>National Trade Register Office, Ministry of Finance</narrative>
+            </name>
+            <url>http://www.mfinante.ro/pjuridice.html?pagina=domenii</url>
+            <description>
+                <narrative></narrative>
+            </description>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>RS-APR</code>
             <name>
                 <narrative>Serbian Business Registrations Agency (APR)</narrative>
