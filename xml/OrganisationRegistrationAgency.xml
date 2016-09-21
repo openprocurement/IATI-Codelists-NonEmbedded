@@ -714,6 +714,28 @@
             <url>http://www.apr.gov.rs/eng/Home.aspx</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>RU-INN</code>
+            <name>
+                <narrative>Uniform State Register of Legal Entities of Russian Federation</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>RU</category>
+            <url>https://russianpartner.biz/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>RU-OGRN</code>
+            <name>
+                <narrative>Uniform State Register of Legal Entities of Russian Federation</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>RU</category>
+            <url>https://russianpartner.biz/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>SE-BLV</code>
             <name>
                 <narrative>Bolagsverket / Swedish Companies Registration Office</narrative>
