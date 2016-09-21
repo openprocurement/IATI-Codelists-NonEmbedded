@@ -262,6 +262,17 @@
             <url>https://public.brra.bg/CheckUps/Verifications/VerificationPersonOrg.ra</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>BY-UNP</code>
+            <name>
+                <narrative>Unified State Register of Legal Entities and Individual Entrepreneurs (Ministry of Justice of the Republic of Belarus)</narrative>
+            </name>
+            <description>
+                <narrative>Information is available only in Belarusian language, contains Registration number, Registration authority, Date of registration, etc.</narrative>
+            </description>
+            <category>BY</category>
+            <url>http://egr.gov.by/egrn/index.jsp?language=en</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>CA-CRA_ACR</code>
             <name>
                 <narrative>Canadian Revenue Agency / Agence du revenu du Canada</narrative>
