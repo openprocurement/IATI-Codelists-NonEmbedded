@@ -53,6 +53,17 @@
             <url>http://moec.gov.af/en</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>AT-FN</code>
+            <name>
+                <narrative>Firmenbuch (the Ministry of Justice of Austria)</narrative>
+            </name>
+            <description>
+                <narrative>Available only in German. Access can be obtained by using services of special companies like http://www.advokat.at/Advokat-Online/Module/Firmenbuch.aspx that are entitled to provide it (for full list see https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html) </narrative>
+            </description>
+            <category>AT</category>
+            <url>https://www.justiz.gv.at/web2013/html/default/2c9484852308c2a601240b693e1c0860.de.html</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>AU-ABN</code>
             <name>
                 <narrative>Australian Business Register</narrative>
