@@ -515,6 +515,17 @@
             <category>KE</category>
             <url>http://www.attorney-general.go.ke/</url>
         </codelist-item>
+        <codelist-item public-database="1">
+            <code>KR-DART</code>
+            <name>
+                <narrative>Repository of Korea's Corporate Filings / Data Analysis, Retrieval and Transfer System</narrative>
+            </name>
+            <description>
+                <narrative>DART (Data Analysis, Retrieval and Transfer System) is an electronic disclosure system that allows companies to submit disclosures online, where it becomes immediately available to investors and other users. Information is free and includes Company Code, Corporation Registration Number, Taxpayer Identification Number, Establishment Date, etc.</narrative>
+            </description>
+            <category>KR</category>
+            <url>http://englishdart.fss.or.kr/mainEng.do</url>
+        </codelist-item>
         <codelist-item public-database="0">
             <code>LS-LCN</code>
             <name>
