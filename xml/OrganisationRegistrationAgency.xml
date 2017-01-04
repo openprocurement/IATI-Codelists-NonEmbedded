@@ -108,6 +108,17 @@
             <url>http://www.juridat.be/tribunal_commerce/bruxelles/index.htm</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>BG-EIK</code>
+            <name>
+                <narrative>Единният идентификационен код (ЕИК)/Unified identification code (UIC)</narrative>
+            </name>
+            <description>
+                <narrative>A unified code which certifies the legality of one's business and under which one's company is signed in the National Statistics Agency</narrative>
+            </description>
+            <category>BG</category>
+            <url>https://public.brra.bg/CheckUps/Verifications/VerificationPersonOrg.ra</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>CA-CRA_ACR</code>
             <name>
                 <narrative>Canadian Revenue Agency / Agence du revenu du Canada</narrative>
