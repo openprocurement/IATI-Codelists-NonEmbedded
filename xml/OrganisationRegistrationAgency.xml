@@ -75,6 +75,17 @@
             <url>http://www.acnc.gov.au/ACNC/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>AZ-IVI</code>
+            <name>
+                <narrative>State Register of Commercial Entities (The Ministry of Taxes of Azerbaijan Republic) / Kommersiya qurumlarının dövlət reyestri. Internet vergi idarəsi/Internet Tax Administration</narrative>
+            </name>
+            <description>
+                <narrative>Available only in Azerbaijani</narrative>
+            </description>
+            <category>AZ</category>
+            <url>https://www.e-taxes.gov.az/ebyn/commersialChecker.jsp</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>BD-NAB</code>
             <name>
                 <narrative>Bangladesh NGO Affairs Bureau</narrative>
