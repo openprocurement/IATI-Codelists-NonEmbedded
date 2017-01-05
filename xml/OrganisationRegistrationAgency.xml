@@ -515,6 +515,28 @@
             <category>KE</category>
             <url>http://www.attorney-general.go.ke/</url>
         </codelist-item>
+        <codelist-item public-database="1">
+            <code>KG-INN</code>
+            <name>
+                <narrative>Жеке сәйкестендіру номері - Идентификационный номер налогоплательщика</narrative>
+            </name>
+            <description>
+                <narrative>'</narrative>
+            </description>
+            <category>KG</category>
+            <url>http://register.minjust.gov.kg/register/SearchAction.seam?logic=and&amp;cid=205</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>KG-OKPO</code>
+            <name>
+                <narrative>Electronic Database of Legal Entities and branches (Ministry of Justice of Kyrgyz Republic) / Юридикалык жактардын, филиалдардын электрондук базасы</narrative>
+            </name>
+            <description>
+                <narrative>Information available in Russian and Kyrgyz. Contains OKPO Industry Code (Russian code standard for legal entities), as well as tax identification code.</narrative>
+            </description>
+            <category>KG</category>
+            <url>http://register.minjust.gov.kg/register/SearchAction.seam?logic=and&amp;cid=204</url>
+        </codelist-item>
         <codelist-item public-database="0">
             <code>LS-LCN</code>
             <name>
