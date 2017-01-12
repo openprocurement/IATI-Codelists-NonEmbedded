@@ -747,6 +747,28 @@
             <url>http://www.acra.gov.sg/</url>
         </codelist-item>
         <codelist-item public-database="1">
+            <code>SI-PRS</code>
+            <name>
+                <narrative>Company Identification Number/Matična številka</narrative>
+            </name>
+            <description>
+                <narrative>The Slovenian Business Register (PRS) is a central database containing information about all business entities involved in a profit or non-profit activity having their principal place of business located on the territory of the Republic of Slovenia, as well as information on their subsidiaries and other divisions of business entities performing business activities in the territory of the Republic of Slovenia.</narrative>
+            </description>
+            <category>SI</category>
+            <url>http://www.ajpes.eu/prs/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
+            <code>SI-TIN</code>
+            <name>
+                <narrative>Tax Identification Number/Davčna številka, Ministry of Finance of the Republic of Slovenia</narrative>
+            </name>
+            <description>
+                <narrative>A unique code every legal entity or an individual enterpreneur must obtain. </narrative>
+            </description>
+            <category>SI</category>
+            <url>http://www.ajpes.eu/prs/</url>
+        </codelist-item>
+        <codelist-item public-database="1">
             <code>SK-ZRSR</code>
             <name>
                 <narrative>Slovakia Ministry Of Interior Trade Register</narrative>
