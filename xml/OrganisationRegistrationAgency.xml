@@ -515,6 +515,17 @@
             <category>KE</category>
             <url>http://www.attorney-general.go.ke/</url>
         </codelist-item>
+        <codelist-item public-database="1">
+            <code>KZ-BIN</code>
+            <name>
+                <narrative>Бизнес сәйкестендіру номері (БИН) / Business Identification Number (BIN)</narrative>
+            </name>
+            <description>
+                <narrative>A unique code every legal entity or an individual enterpreneur must obtain. </narrative>
+            </description>
+            <category>KZ</category>
+            <url>http://kgd.gov.kz/en/services/taxpayer_search/legal_entity</url>
+        </codelist-item>
         <codelist-item public-database="0">
             <code>LS-LCN</code>
             <name>
