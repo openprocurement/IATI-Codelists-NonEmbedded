@@ -1109,6 +1109,30 @@
             <category>SK</category>
             <url>http://www.zrsr.sk/default.aspx?LANG=en</url>
         </codelist-item>
+        <codelist-item public-database="0">
+            <code>TR-MERSIS</code>
+            <name>
+                <narrative>MERSIS - central trade registry system / Merkezi Sicil Kayıt Sistemi</narrative>
+            </name>
+            <description>
+                <narrative>Central Trade Registry System (MERSIS) is a centralized information system allowing for the implementation of the commercial registry processes and storing them and commercial registry data electronically. Mersis may be reached by the username-password or the e-signature from the website address of Ministry of Customs and Trade. It contains titles of companies, addresses, contact information, capital information, companies' partners, joint capital information, field of business, executive bodies of companies. Some information can also be found at http://www.ticaretsicil.gov.tr/english/index.php</narrative>
+            </description>
+            <category>TR</category>
+            <url>http://mersis.gumrukticaret.gov.tr/Login/tabid/110/Default.aspx?returnurl=%2fMersis%2f%C5%9EirketSorgulama.aspx</url>
+        </codelist-item>
+        <codelist-item public-database="0">
+            <code>TR-VAT</code>
+            <name>
+                <narrative>Vergi Kimlik Numarası - VAT</narrative>
+            </name>
+            <description>
+                <narrative>All resident legal entities obtain a TIN (Vergi Kimlik Numarasi) automatically since they are subject to tax. Although legal
+arrangements like ordinary partnerships are not subject to corporate income tax, TIN is issued to
+them while registering to local tax offices. Consists of 10 digits. Information can be found at http://mersis.gumrukticaret.gov.tr/Login/tabid/110/Default.aspx?returnurl=%2fMersis%2f%C5%9EirketSorgulama.aspx. Only in Turkish, not available to the broad audience.</narrative>
+            </description>
+            <category>TR</category>
+            <url>http://mersis.gumrukticaret.gov.tr/Login/tabid/110/Default.aspx?returnurl=%2fMersis%2f%C5%9EirketSorgulama.aspx</url>
+        </codelist-item>
         <codelist-item public-database="1">
             <code>TZ-BRLA</code>
             <name>
